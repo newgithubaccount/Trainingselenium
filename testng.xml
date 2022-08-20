@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite  name="Default suite">
+  <test name="First suit test">
+    <classes>
+      <class name="testing.com.SeleniumJava.FirstTest">
+      <methods>
+      <include name="firstTest"/>
+      </methods>
+      </class>
+      
+    </classes>
+  </test> <!-- Default test -->
+  
+  
+</suite> <!-- Default suite -->
